@@ -15,3 +15,26 @@ h1 {
 p {
     font-size: 1.2em;
 }
+
+/* for top nav */
+.topnav {
+  background-color: #9E768F;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #B3CDD1;
+}
+
+.topnav a.active {
+  background-color: #9FA4C4;
+}
