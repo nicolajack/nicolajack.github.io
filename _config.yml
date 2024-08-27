@@ -1,6 +1,0 @@
-title: my portfolio
-description: >- # Descriptions can be multiline.
-  A showcase of my projects and skills.
-theme: minima # You can specify a Jekyll theme
-baseurl: "" # Leave empty for the root URL
-url: "https://nicolajack.github.io" # Your site URL
