@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #faf4eb;
-    color: #84A59D;
+    background-color: #f0efe6;
+    color: #4d4c4b;
     text-align: center;
     margin: 0;
     padding: 0;
 }
 
 h1 {
-    color: #9E768F;
+    color: #1c1c1c;
     margin-top: 50px;
 }
 
@@ -18,7 +18,7 @@ p {
 
 /* for top nav */
 .topnav {
-  background-color: #9E768F;
+  background-color: #1c1c1c;
   overflow: hidden;
 }
 
