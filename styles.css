@@ -18,6 +18,11 @@ p {
     font-size: 1.7em;
 }
 
+a {
+    margin-top: 50px;
+    font-size: 1.7em;
+}
+
 /* for top nav */
 .topnav {
   background-color: #1c1c1c;
