@@ -19,6 +19,8 @@ p {
 }
 
 a {
+    font-family: Arial, sans-serif;
+    color: #1c1c1c;
     margin-top: 50px;
     font-size: 1.7em;
 }
